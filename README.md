@@ -18,4 +18,5 @@ visualize the sales performance
 Data from kaggle.com
 
 overview of the Dashboard:
+![DASHBOARD](DASHBOARD.png)
 
