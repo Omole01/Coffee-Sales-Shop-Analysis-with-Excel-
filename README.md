@@ -10,8 +10,6 @@ of the company to visualize
 
  Top 5 customers
 
- Filter by key metrics, and interact with dynamic slicers and timelines.
-
 I start by gathering and cleaning the data, followed by creating pivot tables and charts to
 visualize the sales performance
 
